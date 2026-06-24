@@ -1,0 +1,29 @@
+{
+  "name": "overleaf-color-theme",
+  "displayName": "Overleaf Light Color Theme",
+  "description": "VS Code theme inspired by Overleaf",
+  "version": "1.0.4",
+  "publisher": "jhermosillad",
+  "license": "MIT",
+  "engines": { "vscode": "^1.70.0" },
+  "categories": ["Themes"],
+  "keywords": ["theme", "light", "overleaf", "latex"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhermosillad/overleaf-vsc-template"
+  },
+  "contributes": {
+    "themes": [{
+      "label": "Overleaf Light Color Theme",
+      "uiTheme": "vs",
+      "path": "./overleaf-light-color-theme.json"
+    }],
+    "commands": [{
+      "command": "overleaf.initWorkspace",
+      "title": "Initialize LaTeX Workspace",
+      "category": "Overleaf"
+  }]
+  },
+  "activationEvents": ["onCommand:overleaf.initWorkspace"],
+  "main": "./extension.js"
+}

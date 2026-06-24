@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Overleaf Light Color Theme",
+    "latex-workshop.view.pdf.internal.synctex.keybinding": "double-click",
+    "latex-workshop.latex.autoClean.run": "onBuilt",
+    "latex-workshop.latex.clean.fileTypes": [
+    "*.aux", "*.bbl", "*.blg", "*.idx", "*.ind", "*.lof",
+    "*.lot", "*.out", "*.toc", "*.acn", "*.acr", "*.alg",
+    "*.glg", "*.glo", "*.gls", "*.ist", "*.fls", "*.log", 
+    "*.fdb_latexmk", "*.synctex.gz"
+    ],
+    "latex-workshop.hover.preview.scale": 1.5,
+    "[latex]": {
+        "editor.wordWrap": "on",
+        "editor.formatOnSave": true
+    }
+}

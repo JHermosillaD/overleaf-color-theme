@@ -2,7 +2,7 @@
   "name": "overleaf-color-theme",
   "displayName": "Overleaf Light Color Theme",
   "description": "VS Code theme inspired by Overleaf",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "jhermosillad",
   "license": "MIT",
   "engines": { "vscode": "^1.70.0" },

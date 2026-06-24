@@ -10,7 +10,7 @@
   "keywords": ["theme", "light", "overleaf", "latex"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhermosillad/overleaf-vsc-template"
+    "url": "https://github.com/jhermosillad/overleaf-color-theme"
   },
   "contributes": {
     "themes": [{

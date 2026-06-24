@@ -1,6 +1,6 @@
 # Overleaf Light Color Theme
 
-![Installs](https://vsmarketplacebadge.apphb.com/installs/jhermosillad.overleaf-color-theme.svg)
+![Version](https://vsmarketplacebadges.dev/version/jhermosillad.overleaf-color-theme.svg)
 ![License](https://img.shields.io/github/license/jhermosillad/overleaf-color-theme.svg)
 
 An unofficial VS Code theme and LaTeX workspace initializer inspired by Overleaf.

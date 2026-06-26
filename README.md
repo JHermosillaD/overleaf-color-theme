@@ -5,6 +5,8 @@
 
 An unofficial VS Code theme and LaTeX workspace initializer inspired by Overleaf.
 
+<img src="images/example.png" alt="example" width="600">
+
 ## Features
 
 - Light color theme matching Overleaf's editor aesthetic
